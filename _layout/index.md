@@ -13,7 +13,7 @@ Introduction
 Contexte du projet
 
 Objectif de formation (Solicode)
-gestion du freelance
+gestion de podcast
 Cahier des charges
 
 Méthodologie de travail
