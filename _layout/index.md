@@ -1,16 +1,32 @@
 
-# Mon Rapport
+---
+marp: true
+theme: default
+paginate: true
+---
 
-## Introduction
+# Rapport
 
-Bienvenue dans mon rapport.
+### Présentation
 
-## Objectifs
+Réalisé par : Khadija Gerrouj
 
-- Apprendre GitHub
-- Comprendre Markdown
-- Publier un site avec GitHub Pages
+---
 
-## Conclusion
+# Introduction
 
-J'ai publié mon premier site web !
+La veille technologique permet de suivre les nouveautés dans le domaine de la technologie.
+
+---
+
+# Les objectifs
+
+- Découvrir les nouvelles technologies
+- Développer ses compétences
+- Rester informé
+
+---
+
+# Conclusion
+
+La veille technologique est importante pour chaque développeur.
